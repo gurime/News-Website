@@ -18,12 +18,10 @@ background-color: aliceblue;
 
 
 nav{
-background: #055df7;
-background: -moz-linear-gradient(90deg, #055df7 0%, #4651fc 100%);
-background: -webkit-linear-gradient(90deg, #055df7 0%, #4651fc 100%);
 background: linear-gradient(90deg, #055df7 0%, #4651fc 100%);
 margin: 0 auto;
 transform: translateY(-16px);
+padding:1rem;
 }
 
 @media(max-width:868px){

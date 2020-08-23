@@ -76,8 +76,8 @@ cursor: pointer;
 
 .hero-img{
     background: url(img/hero-img/home-hero.jpg);
-    height: 80vh;
-    width: 100vw;
+    height: 50%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -88,8 +88,8 @@ cursor: pointer;
 
 .sec-hero-img{
     background: url(img/hero-img/sec-home-hero.jpg);
-    height: 80vh;
-    width: 100vw;
+     height: 50%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -101,8 +101,8 @@ cursor: pointer;
 
 .third-hero-img{
     background: url(img/hero-img/third-home-hero.jpg);
-    height: 80vh;
-    width: 100vw;
+   height: 50%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -114,8 +114,8 @@ cursor: pointer;
 
 .fourth-hero-img{
     background: url(img/hero-img/fourth-home-hero.jpg);
-    height: 80vh;
-    width: 100vw;
+    height: 50%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -127,8 +127,8 @@ cursor: pointer;
 
 .fifth-hero-img{
     background: url(img/hero-img/fifth-home-hero.jpg);
-    height: 80vh;
-    width: 100vw;
+     height: 50%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -140,8 +140,8 @@ cursor: pointer;
 
 .sixth-hero-img{
     background: url(img/hero-img/sixth-home-hero.jpg);
-    height: 80vh;
-    width: 100vw;
+   height: 50%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -152,8 +152,8 @@ cursor: pointer;
 }
 .seventh-hero-img{
     background: url(img/hero-img/seventh-home-hero.jpg);
-    height: 80vh;
-    width: 100vw;
+     height: 50%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -290,7 +290,6 @@ background: #055df7;
 background: -moz-linear-gradient(90deg, #055df7 0%, #4651fc 100%);
 background: -webkit-linear-gradient(90deg, #055df7 0%, #4651fc 100%);
 background: linear-gradient(90deg, #055df7 0%, #4651fc 100%);
-width: 100vw;
 margin: 0 auto;
 }
     

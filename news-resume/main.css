@@ -184,6 +184,7 @@ margin-bottom: 3em;
 .wrapper{
     max-width: 2400px;
     margin: 0 auto;
+  content-visibility:auto;
 }
 
 .top-news{
